@@ -5,7 +5,9 @@
 
 
 I will be analysing US Postsecondary Education System data from the year 2017-2018. This data was collected under the College Scoreboard Project by the U.S Department of Education.
+The Dataset can be found here: https://collegescorecard.ed.gov/
 
+I will be analysing the Dataset to answer the following questions:
 
 1. How are the instituitions spread across the US? i.e which state has the most instituiitons. 
 
